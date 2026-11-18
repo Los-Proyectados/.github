@@ -26,7 +26,7 @@ recursos humanos, contabilidad, seguimiento de estudios de suelos y laboratorio 
 Todos los sistemas comparten **una sola base de datos PostgreSQL** (en Supabase) y las mismas cuentas
 de usuario, así que un empleado, cliente o proyecto se registra una vez y lo ven todos.
 
-### 🧑‍💼 Recursos Humanos y Administración
+### Recursos Humanos y Administración
 
 Plataforma **web y móvil** para planillas, contratos, horas extras, facturación y cuentas por cobrar,
 con un módulo de **predicciones con Machine Learning e IA**.
@@ -47,7 +47,7 @@ predicciones en Docker · React Native + Expo · Vercel y Render.
 [![Swagger](https://img.shields.io/badge/Docs-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://jupacaproyecta.onrender.com/docs)
 [![APK](https://img.shields.io/badge/App-Android%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://expo.dev/accounts/marioivan44/projects/mobileApp/builds/e9a844a9-1e58-482b-836c-0a80e4a6de19)
 
-### 🪨 Gestión GG (Geología y Geotecnia)
+### Gestión GG (Geología y Geotecnia)
 
 Seguimiento de los **estudios de suelos** desde la solicitud del cliente hasta la entrega del informe,
 en **12 etapas**. La etapa nunca se cambia a mano: sale de lo que se registra.
@@ -61,7 +61,7 @@ en **12 etapas**. La etapa nunca se cambia a mano: sale de lo que se registra.
 **Stack:** Django 6 + PostgreSQL (Supabase) · React + Vite + Tailwind 4 · pruebas con Django y Vitest
 en GitHub Actions.
 
-### 🧪 LIMS (Laboratorio de materiales)
+### LIMS (Laboratorio de materiales)
 
 Sistema de gestión del **laboratorio de concreto y materiales**: remisiones, colados, especímenes,
 ensayos de resistencia, calendario de ensayos e informes, con **lectura de hojas escritas a mano**
